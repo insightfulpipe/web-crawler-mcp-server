@@ -1,0 +1,6 @@
+url,title,meta_description,h1,word_count,internal_links,external_links,images,load_time_ms
+https://example.com/,Example Homepage,Welcome to Example - Your trusted partner,Welcome to Example,1250,45,12,8,842
+https://example.com/about,About Us | Example,Learn about our company history and mission,About Our Company,2100,38,8,12,756
+https://example.com/products,Products | Example,Browse our product catalog,Our Products,1800,52,5,24,1124
+https://example.com/blog,Blog | Example,Latest news and insights,Company Blog,980,28,15,6,624
+https://example.com/contact,Contact Us | Example,Get in touch with our team,Contact Us,450,22,3,2,512

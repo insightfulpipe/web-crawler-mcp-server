@@ -1,0 +1,6 @@
+url,issue_type,severity,description,recommendation
+https://example.com/products,missing_alt,medium,12 images missing alt text,Add descriptive alt text to all images
+https://example.com/blog,duplicate_title,high,Title tag matches 3 other pages,Create unique title tags for each page
+https://example.com/about,thin_content,medium,Page has only 180 words,Expand content to at least 300 words
+https://example.com/,slow_load,high,Page load time exceeds 3 seconds,Optimize images and enable caching
+https://example.com/contact,missing_h1,high,No H1 tag found on page,Add a single H1 tag to the page
